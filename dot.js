@@ -1,3 +1,4 @@
+function oops(){
 /*
 	Copyright (c) <2011, 2012> Rootof Creations HB, rootof.com, kickassapp.com
 */(function(window) {
@@ -261,3 +262,5 @@ function getAppContainerElement() {
 	}
 }
 })(typeof exports != 'undefined' ? exports : window);
+
+}
